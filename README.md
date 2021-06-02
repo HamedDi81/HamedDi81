@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HamedDi81
 - 👀 I’m interested in robot control and computer programming
 - 🌱 I’m currently learning django
-- 📫 How to reach me "hamedmasoudi95@gmail.com"
+- 📫 How to reach me "hamedmasoudi95@gmail.com" and You can find me on LinkedIn "Hamed Masoudi"
