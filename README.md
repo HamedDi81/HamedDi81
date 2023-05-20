@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HamedDi81
 - 👀 I’m interested in developing Reinforcement Learning and Computer Vision algorithms for Autonomous Systems to make reliable decisions in a stochastic environment.
-- 📫 How to reach me "hamedmasoudi95@gmail.com" and You can find me on LinkedIn "Hamed Masoudi"
+- 📫 How to reach me: "hamedmasoudi95@gmail.com" and You can find me on LinkedIn "Hamed Masoudi"
