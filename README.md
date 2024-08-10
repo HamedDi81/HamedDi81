@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HamedDi81
-- 👀 I’m interested in developing Reinforcement Learning and Deep Learning algorithms for Autonomous Systems to make reliable decisions in stochastic environments.
+- 👀 I’m interested in developing Reinforcement Learning and Deep Learning algorithms for Autonomous Systems to make rational decisions.
 - 📫 How to reach me: "hamedmasoudi95@gmail.com"
